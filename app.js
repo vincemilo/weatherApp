@@ -2,6 +2,7 @@ import window from "./window.js";
 
 const getData = async (search = "") => {
   const display = document.getElementById("display");
+  display.innerText = "Loading...";
   let result =
     "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/NYC?key=TCWU552NJCPQ67WVNLGBYKA9F";
   if (search)
