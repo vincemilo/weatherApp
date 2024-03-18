@@ -26,6 +26,7 @@ content.id = "content";
 
 const header = document.createElement("div");
 header.innerText = "Weather App";
+header.id = "header";
 content.appendChild(header);
 const main = document.createElement("div");
 main.id = "main";

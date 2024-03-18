@@ -11,7 +11,5 @@ API exercise using visual crossing weather API
 
 To Do:
 
-- Show a picture/icon representing the current conditions
-- Change the window colors depending on current conditions
 - Toggle Farenheit and Celsius via click
 - Add clickable action to weather alert to get more info
