@@ -8,6 +8,7 @@ API exercise using visual crossing weather API
 - Search for weather in other cites
 - Error message if invalid entry
 - Loads a gif using the current weather conditions from giphy API (not always a relevant one!)
+- Click temp to convert from F to C
 
 To Do:
 
