@@ -11,5 +11,4 @@ API exercise using visual crossing weather API
 
 To Do:
 
-- Toggle Farenheit and Celsius via click
 - Add clickable action to weather alert to get more info
